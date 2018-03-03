@@ -1,3 +1,4 @@
+chenhao
 ## ZrLog 使用 JFinal 构建的个人博客程序
 
 [![Build Status](https://travis-ci.org/94fzb/zrlog.svg?branch=master)](https://travis-ci.org/94fzb/zrlog) [![Apache License](http://img.shields.io/badge/license-apache2-orange.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0) 
